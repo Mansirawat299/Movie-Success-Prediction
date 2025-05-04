@@ -1,4 +1,4 @@
-## Movie-Success-Prediction
+
  ## Predicting Movie Success:  
 ### Analyzing Box Office Performance, IMDb Ratings, and Genre Trends Using Machine Learning
 
